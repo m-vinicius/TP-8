@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Construir
+comment1.params=conectar
+comment1.target=Construir(java.sql.Connection)
+comment10.params=Nome
+comment10.target=boolean\ likeDono(java.lang.String)
+comment11.params=nomePet
+comment11.target=boolean\ likePet(java.lang.String)
+comment2.params=cpf\ nome
+comment2.target=boolean\ createDono(int,\ java.lang.String)
+comment3.params=IdPet\ NomePet\ CpfDono
+comment3.target=boolean\ createPet(int,\ java.lang.String,\ int)
+comment4.params=cpf
+comment4.target=boolean\ readDono(int)
+comment5.params=IdPet
+comment5.target=boolean\ readPet(int)
+comment6.params=cpf\ novoNome
+comment6.target=boolean\ updateDono(int,\ java.lang.String)
+comment7.params=IdPet\ novoNomePet
+comment7.target=boolean\ updatePet(int,\ java.lang.String)
+comment8.params=cpf
+comment8.target=boolean\ deleteDono(int)
+comment9.params=IdPet
+comment9.target=boolean\ deletePet(int)
+numComments=12
